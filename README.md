@@ -1,5 +1,5 @@
-# NetBird-PFSense Client Update
-scripts to update PFSense client for NetBird<br>
+# NetBird-PFSense Package Update
+scripts to update PFSense package for NetBird<br>
 <br>
 CURRENTLY ONLY VERIFIED TO WORK ON FREEBSD 15 due to NetBird waiting for official package to be approved by NetGate<br>
 <br>
