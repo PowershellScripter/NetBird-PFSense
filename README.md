@@ -3,6 +3,12 @@ scripts to update PFSense client for NetBird
 
 CURRENTLY ONLY VERIFIED TO WORK ON FREEBSD 15 due to NetBird waiting for official package to be approved by NetGate
 
+Currently verified with:
+PFSens Plus 25.07 - 25.11.1 (will work CE versions as well)
+
+
+cli command can be used for quick deploy single instances
+sh file can be used with cron jobs
 
 
 
